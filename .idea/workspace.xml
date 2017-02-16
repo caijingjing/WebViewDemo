@@ -7,6 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c344dc94-38c1-4453-89bb-5d64628592f1" name="Default" comment="ssq">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="WebViewDemo.iws" />
@@ -1572,8 +1573,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="64" />
-    <option name="y" value="128" />
+    <option name="x" value="74" />
+    <option name="y" value="132" />
     <option name="width" value="1103" />
     <option name="height" value="792" />
   </component>
@@ -1651,7 +1652,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RunManager" selected="Android Application.app">
@@ -1950,7 +1951,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="64" y="128" width="1103" height="792" extended-state="1" />
+    <frame x="74" y="132" width="1103" height="792" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
