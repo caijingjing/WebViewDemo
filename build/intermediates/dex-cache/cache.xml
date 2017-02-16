@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\studio_workspace_utf8\WebViewDemo\app\libs\smartvideophonelib.jar"
+        jumboMode="false"
+        revision="25.0.1"
+        sha1="eba9a19cfc8501fdc8705aec5c7a0da55c7f7aa8">
+        <dex dex="E:\studio_workspace_utf8\WebViewDemo\app\build\intermediates\pre-dexed\debug\smartvideophonelib_07bd4b1631c10373c39f4c4df3f321c388878166.jar" />
+    </item>
+
+</items>

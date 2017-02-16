@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="smartvideophonelib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/smartvideophonelib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
